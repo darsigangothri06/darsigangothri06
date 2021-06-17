@@ -1,8 +1,11 @@
-## *Hi there, I'm Darsi Gangothri* 👋
+## *Hey, I'm Darsi Gangothri* 👋
 
-- 🔭 I’m currently persuing B.Tech CSE-AI in *KKR and KSR Institute of Technology and Sciences*.
+Hi there, I'm Darsi Gangothri, a Student 🚀 from Guntur, India.
+
+- 🔭 I’m currently studying in *KKR and KSR Institute of Technology and Sciences*.
 - 🌱 I’m currently learning C, Python
-- 👯  I’m looking to do projects on C programming language and Python programming language
+- 👯 I’m looking to do projects on C programming language and Python programming language
+- 💼 I’m pursuing a Bachelor's degree in *Computer Science and Engineering(Artificial Intelligence)*.
 - 📫 How to reach me: [@darsi-gangothri](https://www.linkedin.com/in/darsi-gangothri-7a0607209/) (LinkedIn)
 - 😄 Pronouns: She/Her
 - ⚡ Fact: **"Knowledge, Kindness and Selfmotivation are the key to success"**
