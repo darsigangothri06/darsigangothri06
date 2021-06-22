@@ -8,5 +8,5 @@ Hi there, I'm Darsi Gangothri, a Student 🚀 from Guntur, India.
 - 💼 I’m pursuing a Bachelor's degree in *Computer Science and Engineering(Artificial Intelligence)*.
 - 📫 How to reach me: [@darsi-gangothri](https://www.linkedin.com/in/darsi-gangothri-7a0607209/) (LinkedIn)
 - 😄 Pronouns: Her
-- ⚡ Fact: **"Thinking is the capital, Enterprise is the way, Hard Work is the solution." -Abdul Kalam**
+- 😇 *Keep Smiling And Work Harder.*
 <img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
