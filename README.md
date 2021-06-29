@@ -2,10 +2,9 @@
 A Student 🚀 from Guntur, India.
 
 - 🔭 I’m currently studying in _**KKR and KSR Institute of Technology and Sciences**_.
-- 🌱 I’m currently learning `.c`  `.py`  `.html`
+- 🌱 I’m currently learning `.py`  `.html`
 - 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering(Artificial Intelligence)_**.
-- 📫 How to reach me: [@darsigangothri](https://www.linkedin.com/in/darsi-gangothri-7a0607209/) (LinkedIn)
-- 😄 Pronouns: Her
+- 📫 How to reach me : [@darsigangothri](https://www.linkedin.com/in/darsi-gangothri-7a0607209/) (LinkedIn)
 - :electron: *Keep Smiling And Work Harder* ✨
 > ### _Tools, languages, and other things that I like to work with_
 <a href="https://github.com/darsigangothri06/mycprograms" target = "_blank"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width=5%> </a>
