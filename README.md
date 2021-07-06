@@ -24,7 +24,8 @@ A Student 🚀 from Guntur, India.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=darsigangothri06&show_icons=true&theme=tokyonight)
 -->
 > ### _Stats about me:_
-[![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark)](https://github.com/darsigangothri06)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">  -->
 
