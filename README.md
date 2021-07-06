@@ -28,6 +28,8 @@ A Student 🚀 from Guntur, India.
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&layout=compact)](https://github.com/darsigangothri06)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&layout=compact)](https://github.com/darsigangothri06) -->
+
+![Most used languaged](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=blue-green)
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=darsigangothri06.darsigangothri06) [![Github](https://img.shields.io/github/followers/darsigangothri06?label=Follow&style=social)](https://github.com/darsigangothri06) 
