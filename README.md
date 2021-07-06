@@ -30,6 +30,6 @@ A Student 🚀 from Guntur, India.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&layout=compact)](https://github.com/darsigangothri06) -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=yellow-green)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=pink-green)
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=darsigangothri06.darsigangothri06) [![Github](https://img.shields.io/github/followers/darsigangothri06?label=Follow&style=social)](https://github.com/darsigangothri06) 
