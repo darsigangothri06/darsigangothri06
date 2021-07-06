@@ -2,7 +2,7 @@
 A Student 🚀 from Guntur, India.
 
 - 🔭 I’m currently studying in _**KKR and KSR Institute of Technology and Sciences**_.
-- 🌱 I’m currently learning `.py`  `.html`
+- 🌱 I’m currently learning `.py`  `.html` `.css`
 - 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering(Artificial Intelligence)_**.
 - 📫 How to reach me : [@darsigangothri](https://www.linkedin.com/in/darsi-gangothri-7a0607209/) (LinkedIn)
 - :electron: *Keep Smiling And Work Harder* ✨
