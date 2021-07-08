@@ -1,6 +1,8 @@
 ## *Hey, I'm Darsi Gangothri* 👋
 A Student 🚀 from Guntur, India.
 
+<img src = "https://user-images.githubusercontent.com/77739656/124863629-121f4780-dfd5-11eb-834d-13cb148dc5af.gif" width = "200" align = "right">
+
 - 🔭 I’m currently studying in _**KKR and KSR Institute of Technology and Sciences**_.
 - 🌱 I’m currently learning `.py`  `.html` `.css`
 - 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering(Artificial Intelligence)_**.
@@ -16,6 +18,6 @@ A Student 🚀 from Guntur, India.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=pink-green&card_width=500&custom_title=Languges%20used)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=pink-green&card_width=500&custom_title=Languages%20used)
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=darsigangothri06.darsigangothri06) [![Github](https://img.shields.io/github/followers/darsigangothri06?label=Follow&style=social)](https://github.com/darsigangothri06) 
