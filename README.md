@@ -1,8 +1,8 @@
 ## *Hey, I'm Darsi Gangothri* 👋
 A Student 🚀 from Guntur, India.
 
-<img src = "https://user-images.githubusercontent.com/77739656/124863629-121f4780-dfd5-11eb-834d-13cb148dc5af.gif" width = "200" align = "right">
-
+<!-- <img src = "https://user-images.githubusercontent.com/77739656/124863629-121f4780-dfd5-11eb-834d-13cb148dc5af.gif" width = "200" align = "right">
+ -->
 - 🔭 I’m currently studying in _**KKR and KSR Institute of Technology and Sciences**_.
 - 🌱 I’m currently learning `.py` `.css`
 - 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering - Artificial&nbsp;Intelligence_**.
