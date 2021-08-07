@@ -18,6 +18,10 @@ A Student 🚀 from Guntur, India.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=pink-green&card_width=500&custom_title=Languages%20used)
+<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=pink-green&card_width=500&custom_title=Languages%20used) -->
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=darsigangothri06&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+
 ---
+<!-- 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=darsigangothri06.darsigangothri06) [![Github](https://img.shields.io/github/followers/darsigangothri06?label=Follow&style=social)](https://github.com/darsigangothri06) 
+ -->
