@@ -11,10 +11,34 @@ A Student 🚀 from Guntur, India.
 - 📫 How to reach me : [@darsigangothri](https://www.linkedin.com/in/darsi-gangothri-7a0607209/) (LinkedIn)
 - 😃 *Keep Smiling And Work Harder* ✨
 > ### _Tools, languages, and other things that I like to work with_
-<a href="https://github.com/darsigangothri06/mycprograms" target = "_blank"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width=5%> </a>
+<table>
+  <tr>
+        <td align="center" width="96">
+        <img src="./img/c.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+     <td align="center" width="96">
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="./img/html.jpg" width="48" height="48" alt="HTML-5" />
+      </a>
+      <br>HTML-5
+    </td>
+   <td align="center"  width="96">
+        <img src="./img/css.jpg" width="48" height="48" alt="CSS-3" />
+      </a>
+      <br>CSS-3
+    </td>
+  </tr>
+</table>
+<!-- <a href="https://github.com/darsigangothri06/mycprograms" target = "_blank"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width=5%> </a>
 <a href = "https://github.com/darsigangothri06/python" target = "_blank"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = 5%> </a>
 <a href = "https://github.com/darsigangothri06/HTML" target = "_blank"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width = 5%></a>
-<a href = "https://github.com/darsigangothri06/KITS-Website" target = "_blank"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width = 5%></a>
+<a href = "https://github.com/darsigangothri06/KITS-Website" target = "_blank"> <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width = 5%></a> -->
 
 ### _Stats about me:_
 
