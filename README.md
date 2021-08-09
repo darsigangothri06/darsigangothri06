@@ -1,6 +1,8 @@
 ## *Hey, I'm Darsi Gangothri* 👋
 A Student 🚀 from Guntur, India.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
+
 <!-- <img src = "https://user-images.githubusercontent.com/77739656/124863629-121f4780-dfd5-11eb-834d-13cb148dc5af.gif" width = "200" align = "right">
  -->
 - 🔭 I’m currently studying in _**KKR and KSR Institute of Technology and Sciences**_.
@@ -16,7 +18,7 @@ A Student 🚀 from Guntur, India.
 
 ### _Stats about me:_
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark)](https://github.com/darsigangothri06)
 
 <!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=pink-green&card_width=500&custom_title=Languages%20used) -->
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=darsigangothri06&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
