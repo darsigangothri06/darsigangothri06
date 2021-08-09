@@ -44,8 +44,9 @@ A Student 🚀 from Guntur, India.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark)](https://github.com/darsigangothri06)
 
-<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=pink-green&card_width=500&custom_title=Languages%20used) -->
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=darsigangothri06&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=radical&hide_border=true" width="37%" alt="Darsi Gangothri's Top Languages">
+<!-- 
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=darsigangothri06&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Darsi Gangothri's Top Languages"> -->
 
 ---
 <!-- 
