@@ -29,7 +29,7 @@ A Student 🚀 from Guntur, India.
       <br>HTML-5
     </td>
    <td align="center"  width="96">
-        <img src="./img/css.jpg" width="48" height="48" alt="CSS-3" />
+        <img src="./img/css.png" width="48" height="48" alt="CSS-3" />
       </a>
       <br>CSS-3
     </td>
