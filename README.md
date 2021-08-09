@@ -24,7 +24,7 @@ A Student 🚀 from Guntur, India.
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./img/html.jpg" width="48" height="48" alt="HTML-5" />
+        <img src="./img/html.png" width="48" height="48" alt="HTML-5" />
       </a>
       <br>HTML-5
     </td>
