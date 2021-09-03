@@ -44,10 +44,11 @@ A Student 🚀 from Guntur, India.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark)](https://github.com/darsigangothri06) -->
 <div>
-    <img height="170" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark" alt="Darsi Gangothri GitHub Streak" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark" alt="Darsi Gangothri's GitHub Streak" /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=radical&hide_border=true" width="37%" alt="Darsi Gangothri's Top Languages">
-</div>
-
+ <img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&count_private=true&show_icons=true&theme=radical" alt="Gangothri's GitHub Stats" width="460px">
+ </div>
+<!-- height="170" align="left" -->
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=darsigangothri06&show_icons=true&theme=radical) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=radical&hide_border=true" width="37%" alt="Darsi Gangothri's Top Languages"> -->
 <!-- 
