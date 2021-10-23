@@ -32,6 +32,16 @@ A Student 🚀 from Guntur, India.
       </a>
       <br>CSS-3
     </td>
+    <td align="center" width="96">
+        <img src="./img/java.svg" width="48" height="48" alt="JAVA" />
+      </a>
+      <br>JAVA
+    </td>
+    <td align="center" width="96">
+        <img src="./img/javascript.svg" width="48" height="48" alt="Java Script" />
+      </a>
+      <br>Java Script
+    </td>
   </tr>
 </table>
 
