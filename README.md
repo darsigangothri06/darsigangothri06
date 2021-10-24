@@ -45,10 +45,15 @@ A Student 🚀 from Guntur, India.
   </tr>
 </table>
 
+> ### _Projects:_
+
+* [Number Guessing Game and Memory Game](https://github.com/darsigangothri06/Simple-Game-Python "Using Exceptional Handling in Python")
+* [KITS Webpage](https://github.com/darsigangothri06/KITS-Webpage "Using Basic HTML-5 and CSS-3")
+
 > ### _Stats about me:_
 
 <div>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark" alt="Darsi Gangothri's GitHub Streak" /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&theme=radical&hide_border=true" width="37%" alt="Darsi Gangothri's Top Languages">
  <img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&count_private=true&show_icons=true&theme=radical" alt="Gangothri's GitHub Stats" width="460px">
- </div>
+</div>
