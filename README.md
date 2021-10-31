@@ -24,7 +24,7 @@ A Student 🚀 from Guntur, India.
       <td align="center" width="96">
         <img src="./img/java.svg" width="48" height="48" alt="JAVA" />
       </a>
-      <br>JAVA
+      <br>Java
     </td>
     </td>
     <td align="center" width="96">
