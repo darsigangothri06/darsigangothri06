@@ -49,6 +49,7 @@ A Student 🚀 from Guntur, India.
 
 * [Number Guessing Game and Memory Game](https://github.com/darsigangothri06/Simple-Game-Python "Using Exceptional Handling in Python")
 * [KITS Webpage](https://github.com/darsigangothri06/KITS-Webpage "Using Basic HTML-5 and CSS-3")
+* [Tic Tac Toe](https://github.com/darsigangothri06/Tic-Tac-Toe "Using Basic Python 3")
 
 > ### _Stats about me:_
 
