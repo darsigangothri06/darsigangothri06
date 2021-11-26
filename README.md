@@ -4,8 +4,8 @@ A Student 🚀 from Guntur, India.
 [![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
 
 - 🔭 I’m currently studying in _**KKR & KSR Institute of Technology & Sciences**_, Andhra Pradesh.
+- 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering_**.
 - 🌱 I’m currently learning `.java` `.js`
-- 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering - Artificial&nbsp;Intelligence_**.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/darsigangothri06/)
 - 💻 Competitive Programming : [Leetcode](https://leetcode.com/darsigangothri06/), [Hackerrank](https://www.hackerrank.com/darsigangothri06), [Hackerearth](https://www.hackerearth.com/@darsi8)
 - 😉 *Keep Smiling And Work Harder* ✨
