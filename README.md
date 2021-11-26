@@ -49,7 +49,7 @@ A Student 🚀 from Guntur, India.
 
 * [Food Ordering System](https://github.com/darsigangothri06/Food-Ordering-System)
 * [KITS Webpage](https://github.com/darsigangothri06/KITS-Webpage "Using Basic HTML-5 and CSS-3")
-* [Signup or Login to your account](https://github.com/darsigangothri06/Login-Signup-Page)
+* [Login - Signup](https://github.com/darsigangothri06/Login-Signup-Page)
 * [Number Guessing Game and Memory Game](https://github.com/darsigangothri06/Simple-Game-Python "Using Exceptional Handling in Python")
 * [Tic Tac Toe](https://github.com/darsigangothri06/Tic-Tac-Toe "Using Basic Python 3")
 * [Calculator](https://github.com/darsigangothri06/Calculator)
