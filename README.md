@@ -7,7 +7,7 @@ A Student 🚀 from Guntur, India.
 - 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering_**.
 - 🌱 I’m currently learning `.java` `.js`
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/darsigangothri06/)
-- 💻 Competitive Programming : [Leetcode](https://leetcode.com/darsigangothri06/), [Hackerrank](https://www.hackerrank.com/darsigangothri06), [Hackerearth](https://www.hackerearth.com/@darsi8)
+- 💻 Competitive Programming : [Leetcode](https://leetcode.com/darsigangothri06/), [Hackerrank](https://www.hackerrank.com/darsigangothri06)
 - 😉 *Keep Smiling And Work Harder* ✨
 > ### _Tools, languages, and other things that I like to work with_
 <table>
