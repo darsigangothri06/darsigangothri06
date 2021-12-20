@@ -57,5 +57,6 @@ A Student 🚀 from Guntur, India.
 > ### _Stats:_
 
 <div>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark" alt="Darsi Gangothri's GitHub Streak" /> <br>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark" alt="Darsi Gangothri's GitHub Streak" />
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&hide=javascript,html&layout=compact&langs_count=10&theme=radical" width = "42%" alt = "Darsi Gangothri's Stats" /> <br>
 </div>
