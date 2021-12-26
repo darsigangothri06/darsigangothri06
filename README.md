@@ -48,6 +48,7 @@ A Student 🚀 from Guntur, India.
 > ### _Projects:_
 
 * [Food Ordering System](https://github.com/darsigangothri06/Food-Ordering-System)
+* [Caterpillar Game](https://github.com/darsigangothri06/Caterpillar-Game "Turtle Graphics")
 * [KITS Webpage](https://github.com/darsigangothri06/KITS-Webpage "Using Basic HTML-5 and CSS-3")
 * [Login - Signup](https://github.com/darsigangothri06/Login-Signup-Page)
 * [Number Guessing Game and Memory Game](https://github.com/darsigangothri06/Simple-Game-Python "Using Exceptional Handling in Python")
