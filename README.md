@@ -5,7 +5,7 @@ A Student 🚀 from Guntur, India.
 
 - 🔭 I’m currently studying in _**KKR & KSR Institute of Technology & Sciences**_, Andhra Pradesh.
 - 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering_**.
-- 🌱 I’m currently learning `.java` `.js`
+- 🌱 I’m currently learning `.py` `dsa`
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/darsigangothri06/)
 - 💻 Competitive Programming : [Leetcode](https://leetcode.com/darsigangothri06/), [Hackerrank](https://www.hackerrank.com/cse_20JR1A4306)
 - 😉 *Keep Smiling And Work Harder* ✨
