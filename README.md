@@ -1,7 +1,7 @@
 ## *Hey, I'm Darsi Gangothri* 👋
 A Student 🚀 from Guntur, India.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=onedark&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
+[![trophy](https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=monokai&margin-w=15&no-bg=true)](https://github.com/darsigangothri06)
 
 - 🔭 I’m currently studying in _**KKR & KSR Institute of Technology & Sciences**_, Andhra Pradesh.
 - 💼 I’m pursuing a Bachelor's degree in **_Computer Science and Engineering_**.
