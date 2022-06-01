@@ -55,6 +55,10 @@ A Student 🚀 from Guntur, India.
 * [Calculator](https://github.com/darsigangothri06/Calculator)
 * [Tic Tac Toe](https://github.com/darsigangothri06/Tic-Tac-Toe "Using Basic Python 3")
 
+<p align="center">
+  <img src="https://github.com/darsigangothri06/darsigangothri06/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 > ### _Stats:_
 
 <div>
