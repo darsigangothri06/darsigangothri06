@@ -59,10 +59,35 @@ A Student 🚀 from Guntur, India.
   <img src="https://github.com/darsigangothri06/darsigangothri06/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-> ### _Stats:_
 
-<div>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=dark" alt="Darsi Gangothri's GitHub Streak" width = "50%" height = "50%"/>
-<!--     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&hide=javascript,html&layout=compact&langs_count=10&theme=radical" width = "44%" alt = "Darsi Gangothri's Stats" /> <br> -->
-  <a href=""><img alt="Gangothri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darsigangothri06&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"  width="85%" height="85%" /></a>
-</div>
+<hr>
+
+> ### _Github Activity📊:_
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+   </tr> 
+</table>
+
+<hr>
+
+> ### _Productivity Stats📈:_
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darsigangothri06&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=darsigangothri06&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
+---
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{darsigangothri06}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{darsigangothri06}/count.svg)  
+  
+</a>
