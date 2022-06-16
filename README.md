@@ -14,32 +14,26 @@ A Student 🚀 from Guntur, India.
   <tr>
         <td align="center" width="96">
         <img src="./img/c.svg" width="48" height="48" alt="C" />
-      </a>
       <br>C
     </td>
      <td align="center" width="96">
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
       <br>Python
       <td align="center" width="96">
-        <img src="./img/java.svg" width="48" height="48" alt="JAVA" />
-      </a>
-      <br>Java
+        <img src="./img/Django.svg" width="48" height="48" alt="Django" />
+      <br>Django
     </td>
     </td>
     <td align="center" width="96">
         <img src="./img/html.png" width="48" height="48" alt="HTML-5" />
-      </a>
       <br>HTML-5
     </td>
    <td align="center"  width="96">
         <img src="./img/css.png" width="48" height="48" alt="CSS-3" />
-      </a>
       <br>CSS-3
     </td>
     <td align="center" width="96">
         <img src="./img/javascript.svg" width="48" height="48" alt="Java Script" />
-      </a>
       <br>Java Script
     </td>
   </tr>
