@@ -20,7 +20,7 @@ A Student 🚀 from Guntur, India.
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       <br>Python
       <td align="center" width="96">
-        <img src="./img/Django.svg" width="48" height="48" alt="Django" />
+        <img src="./img/django.svg" width="48" height="48" alt="Django" />
       <br>Django
     </td>
     </td>
