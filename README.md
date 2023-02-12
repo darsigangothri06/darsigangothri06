@@ -74,7 +74,7 @@
 
 <h2 align="center">Repositories</h2>
 
-<h4 align="center"><a href=https://github.com/darsigangothri06?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href="https://github.com/darsigangothri06?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <h2 align="center">I code with</h2>
 <table align="center">
