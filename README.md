@@ -1,4 +1,4 @@
-## *Hi There, I'm [Gangothri](https://gangothridarsi.netlify.app/) 👋*</h1>
+## *Hi There, I'm [Gangothri](https://gangothridarsi.me/) 👋*</h1>
 
 <br>
 <p align="center">
