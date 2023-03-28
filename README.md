@@ -59,12 +59,12 @@
 <hr>
 <h2 align="center">Github Statistics</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="480"/>
-&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&layout=compact&theme=gotham" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=darsigangothri06&show_icons=true&line_height=21&theme=dark" alt="my github stats" width="480"/>
+&nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsigangothri06&layout=compact&theme=dark" alt="languages" height="165">
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&layout=compact&theme=gotham" alt="sxmeer-ahmed" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&layout=compact&theme=dark" alt="sxmeer-ahmed" />
 </p>
 
 <p align="center">
