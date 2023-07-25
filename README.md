@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </p>
 
-<h3 align="center">A Passionate Web Developer, 3rd Year student at KKR & KSR Institute of Technology and Sciences, Guntur</h3>
+<h3 align="center">A Passionate Web Developer, Final Year student at KKR & KSR Institute of Technology and Sciences, Guntur</h3>
 
 - 🔭 I’m currently working on **Competetive Programming**
 
