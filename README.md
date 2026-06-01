@@ -1,114 +1,102 @@
-## *Hi There, I'm [Gangothri](https://gangothridarsi.me/) 👋*</h1>
+<h1 align="center">Hi There, I'm <a href="https://www.linkedin.com/in/darsigangothri06">Gangothri</a> 👋</h1>
+
+<h3 align="center">Software Engineer · AI/LLM Builder · Mobile & Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="mailto:gangothri.darsi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/darsigangothri06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/darsigangothri06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/darsigangothri06/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
+## About Me
+
+**Software Engineer** with **2.5+ years** building **AI-powered products** at scale. Currently leading Bryt's mobile app team, owning **Tutor.ai** (1,000+ DAU, 120+ schools) end-to-end. I build LLM-driven features (Socratic tutoring, multi-agent systems, RAG pipelines), full-stack mobile apps (Flutter + Django), and AI developer tools.
+
+- 🔭 Currently **leading mobile development at [Bryt Learning](https://www.brytlearning.com/)** — an Edtech company
+- 🤖 Building **LLM-powered tutoring agents**, adaptive learning systems, and multi-agent orchestration
+- 📱 Deep expertise in **Flutter**, **Django**, and **cloud infrastructure**
+- 🧠 Solved **800+ problems on LeetCode**
+- 📫 Reach me at **gangothri.darsi@gmail.com**
+- ⚡ Fun fact: **An expert in everything was once a beginner**
+
+---
+
+## 🛠 Skills
+
+- **Languages:** Python, Dart, C, JavaScript
+- **Mobile:** Flutter (Riverpod, Hive, FCM, GraphQL, animations, responsive design)
+- **Backend:** Django (ORM, REST APIs, management commands, services layer), Node.js, Express.js
+- **AI/ML:** LLM integration (Gemini, OpenAI), LiteLLM, LangChain/LangGraph, RAG pipelines (ChromaDB, embeddings, vector search), multi-agent orchestration (MCP, tool-calling), structured LLM output schemas, Vision OCR, TTS/STT APIs, prompt engineering, Socratic pedagogy engines
+- **Cloud:** Firebase (RTDB, Firestore, Auth, FCM, Crashlytics), Google Cloud (Cloud Run Functions, Cloud Services), AWS S3
+- **Data & Analytics:** PostHog (HogQL), Google Analytics, Firebase Analytics, SQL, MongoDB
+- **Architecture:** Microservice design, layered architecture, adaptive learning pipelines, offline-first sync, event-driven systems
+- **Tools:** Git, GitHub, Postman, Android Studio, VS Code, Cursor AI
+- **Platforms:** LeetCode (800+ problems), HackerRank, GeeksForGeeks
+
+---
+
+## 💼 Experience
+
+**Software Developer R&D @ [Bryt Learning](https://www.brytlearning.com/)** &nbsp; _(Dec 2023 – Present)_
+
+> **Ownership & Impact**
+> - **Owned Tutor.ai App end-to-end** (Flutter) — flagship product with **1,000+ DAU**, **15,000+ students** across **120+ schools**
+> - **Owned Aspire App** (Flutter) — student self-study app for revision quizzes, unit-based practice, and learning paths
+
+> **AI & LLM (Brainie AI)**
+> - Built **Socratic Hints system** — offline LLM pipeline generating pedagogical hints with TTS audio
+> - Built **Brainie AI Assistant** — live LLM tutoring agent with multi-model fallback via LiteLLM
+> - Implemented **voice-based AI interaction** — server-side STT/TTS for spoken Q&A
+
+> **Adaptive Learning (Architecting)**
+> - Architecting adaptive learning microservice — Django backend with **Goal Creator → Resolver → Scheduler** pipeline
+
+> **Full-Stack & Cloud**
+> - Developed **Parent Corner** module — dashboard, progress tracking, mastery visualizations (GraphQL + Riverpod)
+> - Architected **offline-first sync** — Hive local DB + custom Daemon queue with cached content delivery
+> - Built **analytics pipelines** — PostHog + Google Analytics tracking engagement and learning outcomes
+> - Migrated **Firebase RTDB**, Cloud Run Functions to Node.js v22; optimized real-time chat for 120+ schools
+> - Led **multilingual expansion** — WhatsApp WA360 templates, Urdu localization, digital content streaming to classroom TVs
 
 <br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-</p>
 
-<h3 align="center">A Passionate Web Developer, Final Year student at KKR & KSR Institute of Technology and Sciences, Guntur</h3>
+**Full Stack Developer Intern @ ZealYug** &nbsp; _(Feb 2023 – Apr 2023)_
 
-- 🔭 I’m currently working on **Competetive Programming**
+> - Built backend APIs for a hiring platform — security, posts, profiles, and real-time chat features
+> - Awarded **Programmer of the Week**
 
-- 👯 I’m looking to collaborate on **Website projects**
+---
 
-- 💬 Ask me about **Development**
+## 🚀 Featured Projects
 
-- 📫 Reach me at **darsigangothri@gmail.com**
+### [DebugLens](https://github.com/darsigangothri06/debuglens)
+Paste a stack trace → traces the **call chain** through your codebase (local or GitHub) → **LLM identifies root cause** → searches StackOverflow/GitHub Issues → suggests a fix.
+<br>`Python` `LangChain` `Tree-sitter` `FastAPI` `Streamlit`
 
-- 📄 Connect at [LinkedIn](https://www.linkedin.com/in/darsigangothri06)
+### [DocMind](https://github.com/darsigangothri06/docmind)
+**RAG system** for chatting with documents. Chunking + embeddings, **ChromaDB vector search** with MMR reranking, source-cited answers, and a **4-metric evaluation pipeline**.
+<br>`Python` `LangChain` `ChromaDB` `FastAPI` `Streamlit`
 
-- ⚡ Fun fact **An Expert in everything was once a Beginner**
+### [ResearchCrew](https://github.com/darsigangothri06/researchcrew)
+**4 LLM agents** (Planner, Searcher, Analyst, Synthesizer) autonomously research any topic and produce cited reports. **LangGraph state machine**, **tool-calling**, **WebSocket streaming** of agent reasoning.
+<br>`Python` `LangGraph` `MCP` `FastAPI` `Streamlit`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+---
 
-<br>
-<h4/>
-<h4/>
-<hr>
+## 🎓 Education
 
-<h2 align="center">Github Trophies</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=darsigangothri06&theme=darkhub">
-</p>
-</br>  
-<hr>
-<h2 align="center">Connect with me on</h2>
-<div align="center" >
-  
-<a href="https://github.com/darsigangothri06" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/darsigangothri" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/darsigangothri06" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div> 
-  <br/>
-  <p align="center">
-</p>
-<hr>
-<h2 align="center">Github Statistics</h2>
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darsigangothri06&show_icons=true&line_height=21&theme=dark" alt="my github stats" width="480"/>
-&nbsp; &nbsp; <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darsigangothri06&layout=compact&theme=dark" alt="languages" height="165">
-</p>
+**B.Tech in Computer Science & Artificial Intelligence**
+<br>KKR & KSR Institute of Technology and Sciences, Guntur — **9.14 CGPA** (2020 – 2024)
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsigangothri06&layout=compact&theme=dark" alt="sxmeer-ahmed" />
-</p>
+---
 
-<p align="center">
- <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
-</p>
-<hr>
+## 🏆 Achievements & Leadership
 
-<h2 align="center">Repositories</h2>
+- 🧠 **800+ problems solved** on [LeetCode](https://leetcode.com/u/darsigangothri06/) — strong DSA proficiency
+- 👨‍💻 **Leading Bryt's mobile app team** — technical decisions, code reviews, architecture direction across multiple apps
+- 🎓 **Former Technical Head**, Department of AI — led **250+ students**, organized workshops and hackathons
+- 📢 **Conducted upskilling sessions** on DSA, coding fundamentals, and emerging tech for junior students
 
-<h4 align="center"><a href="https://github.com/darsigangothri06?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-<h2 align="center">I code with</h2>
-<table align="center">
-  <tbody>
-    <tr>
-      <td width="20%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
-      </td>
-      <td width="20%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif">
-      </td>
-      <td width="20%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.cdnlogo.com/logos/c/18/css.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg">
-  </td>
-      <td width="20%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-      </td>
-    <td width="25%" align="center">
-        <span>VSCode</span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
-      </td>
-  </tr>
-  </tbody>
-</table>
-<p align="center"> 
-   Visitor Count
- <br/>
-  <img src="https://profile-counter.glitch.me/darsigangothri06/count.svg" />
-</p>
