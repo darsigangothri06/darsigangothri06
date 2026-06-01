@@ -15,7 +15,7 @@
 
 **Software Engineer** with **2.5+ years** building **AI-powered products** at scale. Currently leading Bryt's mobile app team, owning **Tutor.ai** (1,000+ DAU, 120+ schools) end-to-end. I build LLM-driven features (Socratic tutoring, multi-agent systems, RAG pipelines), full-stack mobile apps (Flutter + Django), and AI developer tools.
 
-- 🔭 Currently **leading mobile development at [Bryt Learning](https://www.brytlearning.com/)** — an Edtech company
+- 🔭 Currently **leading mobile development at [Bryt Learning](https://www.brytlearning.com/)** - an Edtech company
 - 🤖 Building **LLM-powered tutoring agents**, adaptive learning systems, and multi-agent orchestration
 - 📱 Deep expertise in **Flutter**, **Django**, and **cloud infrastructure**
 - 🧠 Solved **800+ problems on LeetCode**
@@ -43,29 +43,29 @@
 **Software Developer R&D @ [Bryt Learning](https://www.brytlearning.com/)** &nbsp; _(Dec 2023 – Present)_
 
 > **Ownership & Impact**
-> - **Owned Tutor.ai App end-to-end** (Flutter) — flagship product with **1,000+ DAU**, **15,000+ students** across **120+ schools**
-> - **Owned Aspire App** (Flutter) — student self-study app for revision quizzes, unit-based practice, and learning paths
+> - **Owned Tutor.ai App end-to-end** (Flutter) - flagship product with **1,000+ DAU**, **15,000+ students** across **120+ schools**
+> - **Owned Aspire App** (Flutter) - student self-study app for revision quizzes, unit-based practice, and learning paths
 
 > **AI & LLM (Brainie AI)**
-> - Built **Socratic Hints system** — offline LLM pipeline generating pedagogical hints with TTS audio
-> - Built **Brainie AI Assistant** — live LLM tutoring agent with multi-model fallback via LiteLLM
-> - Implemented **voice-based AI interaction** — server-side STT/TTS for spoken Q&A
+> - Built **Socratic Hints system** - offline LLM pipeline generating pedagogical hints with TTS audio
+> - Built **Brainie AI Assistant** - live LLM tutoring agent with multi-model fallback via LiteLLM
+> - Implemented **voice-based AI interaction** - server-side STT/TTS for spoken Q&A
 
 > **Adaptive Learning (Architecting)**
-> - Architecting adaptive learning microservice — Django backend with **Goal Creator → Resolver → Scheduler** pipeline
+> - Architecting adaptive learning microservice - Django backend with **Goal Creator → Resolver → Scheduler** pipeline
 
 > **Full-Stack & Cloud**
-> - Developed **Parent Corner** module — dashboard, progress tracking, mastery visualizations (GraphQL + Riverpod)
-> - Architected **offline-first sync** — Hive local DB + custom Daemon queue with cached content delivery
-> - Built **analytics pipelines** — PostHog + Google Analytics tracking engagement and learning outcomes
+> - Developed **Parent Corner** module - dashboard, progress tracking, mastery visualizations (GraphQL + Riverpod)
+> - Architected **offline-first sync** - Hive local DB + custom Daemon queue with cached content delivery
+> - Built **analytics pipelines** - PostHog + Google Analytics tracking engagement and learning outcomes
 > - Migrated **Firebase RTDB**, Cloud Run Functions to Node.js v22; optimized real-time chat for 120+ schools
-> - Led **multilingual expansion** — WhatsApp WA360 templates, Urdu localization, digital content streaming to classroom TVs
+> - Led **multilingual expansion** - WhatsApp WA360 templates, Urdu localization, digital content streaming to classroom TVs
 
 <br>
 
 **Full Stack Developer Intern @ ZealYug** &nbsp; _(Feb 2023 – Apr 2023)_
 
-> - Built backend APIs for a hiring platform — security, posts, profiles, and real-time chat features
+> - Built backend APIs for a hiring platform - security, posts, profiles, and real-time chat features
 > - Awarded **Programmer of the Week**
 
 ---
@@ -89,14 +89,14 @@ Paste a stack trace → traces the **call chain** through your codebase (local o
 ## 🎓 Education
 
 **B.Tech in Computer Science & Artificial Intelligence**
-<br>KKR & KSR Institute of Technology and Sciences, Guntur — **9.14 CGPA** (2020 – 2024)
+<br>KKR & KSR Institute of Technology and Sciences, Guntur - **9.14 CGPA** (2020 – 2024)
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-- 🧠 **800+ problems solved** on [LeetCode](https://leetcode.com/u/darsigangothri06/) — strong DSA proficiency
-- 👨‍💻 **Leading Bryt's mobile app team** — technical decisions, code reviews, architecture direction across multiple apps
-- 🎓 **Former Technical Head**, Department of AI — led **250+ students**, organized workshops and hackathons
+- 🧠 **800+ problems solved** on [LeetCode](https://leetcode.com/u/darsigangothri06/) - strong DSA proficiency
+- 👨‍💻 **Leading Bryt's mobile app team** - technical decisions, code reviews, architecture direction across multiple apps
+- 🎓 **Former Technical Head**, Department of AI - led **250+ students**, organized workshops and hackathons
 - 📢 **Conducted upskilling sessions** on DSA, coding fundamentals, and emerging tech for junior students
 
