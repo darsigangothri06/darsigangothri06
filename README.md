@@ -15,7 +15,7 @@
 
 **Software Engineer** with **2.5+ years** building **AI-powered products** at scale. Currently leading Bryt's mobile app team, owning **Tutor.ai** (1,000+ DAU, 120+ schools) end-to-end. I build LLM-driven features (Socratic tutoring, multi-agent systems, RAG pipelines), full-stack mobile apps (Flutter + Django), and AI developer tools.
 
-- 🔭 Currently **leading mobile development at [Bryt Learning](https://www.brytlearning.com/)** - an Edtech company
+- 🔭 Currently **leading mobile development at Bryt Learning** - an Edtech company
 - 🤖 Building **LLM-powered tutoring agents**, adaptive learning systems, and multi-agent orchestration
 - 📱 Deep expertise in **Flutter**, **Django**, and **cloud infrastructure**
 - 🧠 Solved **800+ problems on LeetCode**
@@ -40,7 +40,7 @@
 
 ## 💼 Experience
 
-**Software Developer R&D @ [Bryt Learning](https://www.brytlearning.com/)** &nbsp; _(Dec 2023 – Present)_
+**Software Developer R&D @ Bryt Learning** &nbsp; _(Dec 2023 – Present)_
 
 > **Ownership & Impact**
 > - **Owned Tutor.ai App end-to-end** (Flutter) - flagship product with **1,000+ DAU**, **15,000+ students** across **120+ schools**
