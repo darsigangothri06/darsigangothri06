@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/darsigangothri06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/darsigangothri06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/darsigangothri06/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <br><br>
   <img src="https://github-view-counter.vercel.app/api?username=darsigangothri06&style=rounded&color=%2358a6ff&bgColor=rgba(56,139,253,0.1)&label=Profile+Views&icon=true" alt="Profile Views" />
 </p>
 
