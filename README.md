@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm <a href="https://www.linkedin.com/in/darsigangothri06">Gangothri</a> 👋</h1>
 
-<h3 align="center">Software Engineer · AI/LLM Builder · Mentor & Instructor</h3>
+<h3 align="center">Software Engineer · AI/LLM Builder · Mobile & Full-Stack Developer · Mentor & Instructor</h3>
 
 <p align="center">
   <a href="https://topmate.io/darsigangothri06"><img src="https://img.shields.io/badge/Topmate-Book%20a%20Session-7C3AED?style=for-the-badge&logoColor=white" /></a>
