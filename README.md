@@ -1,8 +1,9 @@
 <h1 align="center">Hi There, I'm <a href="https://www.linkedin.com/in/darsigangothri06">Gangothri</a> 👋</h1>
 
-<h3 align="center">Software Engineer · AI/LLM Builder · Mobile & Full-Stack Developer</h3>
+<h3 align="center">Software Engineer · AI/LLM Builder · Mentor & Instructor</h3>
 
 <p align="center">
+  <a href="https://topmate.io/darsigangothri06"><img src="https://img.shields.io/badge/Topmate-Book%20a%20Session-7C3AED?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:gangothri.darsi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/darsigangothri06"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/darsigangothri06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -14,13 +15,13 @@
 
 ## About Me
 
-**Software Engineer** with **2.5+ years** building **AI-powered products** at scale. Currently leading Bryt's mobile app team, owning **Tutor.ai** (1,000+ DAU, 120+ schools) end-to-end. I build LLM-driven features (Socratic tutoring, multi-agent systems, RAG pipelines), full-stack mobile apps (Flutter + Django), and AI developer tools.
+**Software Engineer** with **2.5+ years** building **AI-powered products** at scale. Currently at Bryt Learning, owning **Tutor.ai** (1,000+ DAU, 120+ schools) end-to-end. I build LLM-driven features (Socratic tutoring, multi-agent systems, RAG pipelines), full-stack mobile apps (Flutter + Django), and AI developer tools.
 
-- 🔭 Currently **leading mobile development at Bryt Learning** - an Edtech company
 - 🤖 Building **LLM-powered tutoring agents**, adaptive learning systems, and multi-agent orchestration
 - 📱 Deep expertise in **Flutter**, **Django**, and **cloud infrastructure**
 - 🧠 Solved **800+ problems on LeetCode**
-- 📫 Reach me at **gangothri.darsi@gmail.com**
+- 🎓 Currently **teaching LLM Engineering & GenAI** (Python, PyTorch, LangChain, RAG, Agents, Fine-tuning, Production)
+- 💬 **[Book a 1:1 session with me](https://topmate.io/darsigangothri06)** - career guidance, mock interviews, project help, resume review
 - ⚡ Fun fact: **An expert in everything was once a beginner**
 
 ---
@@ -97,7 +98,7 @@ Paste a stack trace → traces the **call chain** through your codebase (local o
 ## 🏆 Achievements & Leadership
 
 - 🧠 **800+ problems solved** on [LeetCode](https://leetcode.com/u/darsigangothri06/) - strong DSA proficiency
-- 👨‍💻 **Leading Bryt's mobile app team** - technical decisions, code reviews, architecture direction across multiple apps
-- 🎓 **Former Technical Head**, Department of AI - led **250+ students**, organized workshops and hackathons
+- 🎓 **Teaching LLM Engineering & GenAI** - live masterclass covering the full open-source AI stack
+- 💡 **Former Technical Head**, Department of AI - led **250+ students**, organized workshops and hackathons
 - 📢 **Conducted upskilling sessions** on DSA, coding fundamentals, and emerging tech for junior students
 
