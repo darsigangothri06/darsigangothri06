@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm <a href="https://www.linkedin.com/in/darsigangothri06">Gangothri</a> 👋</h1>
+<h1 align="center">Hi There, I'm <a href="https://gangothridarsi.vercel.app">Gangothri</a> 👋</h1>
 
 <h3 align="center">Software Engineer · AI/LLM Builder · Mobile & Full-Stack Developer · Mentor & Instructor</h3>
 
